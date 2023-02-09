@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Droid Caffe</string>
+    <string name="todo">TODO</string>
+    <string name="froyoo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="eskrim">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="doonut">Donuts are glazed and sprinkled with candy.</string>
+</resources>

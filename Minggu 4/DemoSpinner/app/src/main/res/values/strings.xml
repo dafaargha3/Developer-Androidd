@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo Spinner</string>
+    <string name="anggota_g20_bali">Anggota G20 Bali</string>
+    <string-array name="anggota">
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+        <item> Indonesia</item>
+    </string-array>
+</resources>
